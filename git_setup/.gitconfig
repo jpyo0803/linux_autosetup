@@ -1,0 +1,15 @@
+[user]
+	name = Jinwon Pyo
+	email = gch99517@gmail.com
+
+[core]
+  editor = vim
+  eol = lf
+  autocrlf = input
+
+[alias]
+  br = branch
+  co = checkout
+  ci = commit
+  st = status
+  pick = cherry-pick
